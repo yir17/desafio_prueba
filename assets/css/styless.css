@@ -1,0 +1,25 @@
+.backroungc{
+  background-color: black
+}
+
+.col_backroung{
+    background-color:  rgb(18, 168, 214)
+}
+
+.boxstyle{
+  background: #17a3b8;
+  text-align: center;
+}
+
+.card-img-top {
+  width: 100%;
+  max-width: 30vw;
+  object-fit: cover;
+}
+.footer-color{
+  background-color: rgb(18, 168, 214); 
+}
+
+.footer-ico{
+  text-align: right;
+}
